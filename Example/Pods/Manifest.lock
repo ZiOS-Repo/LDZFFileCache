@@ -1,0 +1,16 @@
+PODS:
+  - LDZFFileCache (0.1.0)
+
+DEPENDENCIES:
+  - LDZFFileCache (from `../`)
+
+EXTERNAL SOURCES:
+  LDZFFileCache:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LDZFFileCache: 62fe4e3404ffbff944fac0ab343a67c7cc722ad3
+
+PODFILE CHECKSUM: 0116ff7bc29120ba6afad4d0bb0e0c2f7d4d34da
+
+COCOAPODS: 1.11.2

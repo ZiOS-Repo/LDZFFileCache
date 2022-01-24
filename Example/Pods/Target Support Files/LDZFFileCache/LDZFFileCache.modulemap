@@ -1,0 +1,6 @@
+framework module LDZFFileCache {
+  umbrella header "LDZFFileCache-umbrella.h"
+
+  export *
+  module * { export * }
+}
